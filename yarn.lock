@@ -512,6 +512,11 @@ util-deprecate@^1.0.1:
   resolved "https://registry.npmjs.org/util-deprecate/-/util-deprecate-1.0.2.tgz"
   integrity sha512-EPD5q1uXyFxJpCrLnCc1nHnq3gOa6DZBocAIiI2TaSCA7VCJ1UJDMagCzIkXNsUYfD1daK//LTEQ8xiIbrHtcw==
 
+vim@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.npmjs.org/vim/-/vim-0.1.0.tgz"
+  integrity sha512-tQNRomu+LJGGqpzvkmj52S3Q3qfSnf1PJzUzEomYQaoXB7puEOrbqqiK18Xc11z8Tk+c5zdRemX88c+E/bkVww==
+
 "when@>= 0.0.1":
   version "3.7.8"
   resolved "https://registry.npmjs.org/when/-/when-3.7.8.tgz"

@@ -15,6 +15,7 @@
     "correios-brasil": "^3.0.4",
     "ffmpeg": "^0.0.4",
     "openai": "^3.2.1",
-    "qrcode-terminal": "^0.12.0"
+    "qrcode-terminal": "^0.12.0",
+    "vim": "^0.1.0"
   }
 }

@@ -34,8 +34,8 @@ class Action {
   //Chat GPT (Imagem)
   async gptImg() {
     const configuration = new Configuration({
-      organization: 'org-VTi9z53y6py9zJl7uCb7mKd1',
-      apiKey: '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',
+      organization: 'your organization code',
+      apiKey: 'your api key',
     });
     
     const openai = new OpenAIApi(configuration);
@@ -82,8 +82,8 @@ class Action {
   //Chat GPT
   async gptText() {
     const configuration = new Configuration({
-      organization: 'org-VTi9z53y6py9zJl7uCb7mKd1',
-      apiKey: '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',
+      organization: 'your organization code',
+      apiKey: 'your api key',
     });
     
     const openai = new OpenAIApi(configuration);
