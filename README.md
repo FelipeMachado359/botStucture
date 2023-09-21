@@ -1,1 +1,1 @@
-"# chicoBot-v1.7.0" 
+"# only the basic for baileys connection and open ai API" 
